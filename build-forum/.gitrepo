@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/laracasts/Lets-Build-a-Forum-in-Laravel.git
+	branch = master
+	commit = bb8a4b775d73ee7102d4d5afaca81a6e94639059
+	parent = 0cdbe52b71c6248dbca7d1c276f83b5b9bb98d2f
+	cmdver = 0.3.0
